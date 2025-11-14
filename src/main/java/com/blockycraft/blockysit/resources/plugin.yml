@@ -1,0 +1,5 @@
+name: BlockySit
+main: com.blockycraft.blockysit.BlockySit
+version: 1.0
+author: Lciarallo
+description: Plugin que permite o jogador sentar em outros objetos da blockycraft.
